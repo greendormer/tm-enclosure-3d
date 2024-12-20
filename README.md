@@ -6,7 +6,7 @@ Visit the [Traffic Monitor homepage](https://www.trafficmonitor.ai) or the [Traf
 
 **What does this repo contain?**
 
-This repository contains the `.stl` files for the [Traffic Monitor](https://www.trafficmonitor.ai) 3D enclosure to print via your FDM 3D Printer.
+This repository contains the `.stl` files for the Traffic Monitor 3D enclosure to print via your FDM 3D Printer.
 
 ## Features
 
