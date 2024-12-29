@@ -12,6 +12,7 @@ This repository contains the `.stl` files for the Traffic Monitor 3D enclosure t
 
 - Outdoor, weatherproof design to prevent water and dust infiltration for your traffic monitor components.
 - Designed to fit the Traffic Monitor recommended hardware: camera, radar, and AI co-processor (environmental / air quality sensors require modified enclosure).
+- Measures roughly 190mm x 190mm x 95mm (≅ 7.5in x 7.5in x 3.75in) and weighs 250 grams (≅ 8.8 oz)
 - 1/4"-20 screw insert holes on bottom and back for compatability with a variety of camera -style mounting hardware.
 - Built-in Arca-Swiss Quick Release System -compatible plate to quickly and easily clamp onto compatible tripods.
 - VESA mount -compatible M4 screw insert holes at 75 and 100 mm on the back.
