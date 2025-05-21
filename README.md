@@ -81,6 +81,9 @@ The enclosure requires a few commodity components to complete the build.  Requir
 - (Required) Window insert of polycarbonate, acrylic, or glass; recommend sealing with silicon adhesive.
 - (Required) Six (6) of 3mm x 45mm steel dowel pins or screws for hinges (2), latch (2), and latch catch (2).
 - (Required) Four (4) of M3 * 4mm screw inserts for Enclosure Top mounting board hold down.
+- (Required) Four (4) of M3 x 16mm button head socket cap screws with nuts for mounting Raspberry Pi Carrier board to mounting board
+- (Optional) Four (4) of M2.5 x 12mm button head socket cap screws with nuts for mounting RPi GS Camera
+- (Optional) Four (4) #8 x 1/2" Self-drilling screws for mounting GS camera mount to mounting board
 - (Recommended) Silicon beading for waterproofness on rim inset.
 - (Optional) Mounting screw inserts:
     - Up to two (2) of 1/4"-20 screw inserts on bottom and back
