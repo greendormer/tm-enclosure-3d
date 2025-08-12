@@ -11,6 +11,8 @@ This repository contains the `.stl` files for the Traffic Monitor 3D enclosure p
 
 ![Enclosure Top](static/img/tm-encl-top-mk1.png)
 
+![Enclosure Top Window Cover](static/img/tm-encl-top-windowcover-mk1.png)
+
 ![Enclosure Bottom](static/img/tm-encl-bottom-mk1.png)
 
 ![Enclosure Bottom AQ](static/img/tm-encl-bottom-aq-mk1.png)
@@ -27,7 +29,7 @@ This repository contains the `.stl` files for the Traffic Monitor 3D enclosure p
 
 ## Features
 
-- Outdoor, weather-resistant design to prevent water and dust infiltration for your traffic monitor components.
+- Outdoor, weather-resistant design to prevent water and dust infiltration for your traffic monitor components (IP-52 to IP-65, depending on model, not certified).
 - Designed to fit the Traffic Monitor recommended hardware: camera, radar, and AI co-processor. For environmental / air quality sensors see AQ enclosure.
 - Measures roughly 190mm x 190mm x 95mm (≅ 7.5in x 7.5in x 3.75in) and weighs 250 grams (≅ 8.8 oz) empty
 - 1/4"-20 screw insert holes on bottom and back (depending on model) for compatability with a variety of camera -style mounting hardware.
@@ -41,15 +43,15 @@ Tip: Mix and match colors between components to create an interesting look!
 
 **Standard enclosure**:
 - Bottom (standard)
-- Top
-- Mounting Board
+- Top + Window Cover
+- Mounting Board + Carrier Board
 - Camera mount for RPi Cam 3
 - 2 x Latch
 
 **Air Quality enclosure**:
 - Bottom (AQ)
-- Top
-- Mounting Board
+- Top + Window Cover
+- Mounting Board + Carrier Board
 - Camera mount for RPi Cam 3
 - 2 x Latch
 - AQ clip
@@ -85,7 +87,7 @@ The enclosure requires a few commodity components to complete the build.  Requir
 - (Optional) Four (4) of M2.5 x 12mm button head socket cap screws with nuts for mounting RPi GS Camera
 - (Optional) Four (4) #8 x 1/2" Self-drilling screws for mounting GS camera mount to mounting board
 - (Recommended) Silicon beading for waterproofness on rim inset.
-- (Optional) Mounting screw inserts:
+- (Optional) Mounting screw inserts on enclosure:
     - Up to two (2) of 1/4"-20 screw inserts on bottom and back
     - Up to eight (8) of M4 * 5 * 5mm screw inserts on back for VESA mount -compatible holes
 - (Optional) Mounting hardware (dependent on mounting conditions).
