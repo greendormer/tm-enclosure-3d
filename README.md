@@ -19,7 +19,9 @@ This repository contains the `.stl` files for the Traffic Monitor 3D enclosure p
 
 ![Enclosure AQ Clip](static/img/tm-encl-aqclip-mk1.png)
 
-![Enclosure Board](static/img/tm-encl-board-mk1.png)
+![Enclosure Board](static/img/tm-encl-board.png)
+
+![Carrier Board](static/img/tm-encl-board-carrier.png)
 
 ![Enclosure Latch](static/img/tm-encl-latch-mk1.png)
 
